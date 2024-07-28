@@ -1,9 +1,8 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.natamus.trampleeverything.forge.mixin",
+  "package": "com.natamus.trampleeverything.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "trampleeverything_forge.refmap.json",
   "mixins": [
 
   ],
