@@ -1,6 +1,6 @@
-package com.natamus.trampleeverything.forge.events;
+package com.serilum.trampleeverything.forge.events;
 
-import com.natamus.trampleeverything.events.TrampleEvent;
+import com.serilum.trampleeverything.events.TrampleEvent;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.player.Player;

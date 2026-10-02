@@ -1,6 +1,6 @@
-package com.natamus.trampleeverything;
+package com.serilum.trampleeverything;
 
-import com.natamus.trampleeverything.config.ConfigHandler;
+import com.serilum.trampleeverything.config.ConfigHandler;
 
 public class ModCommon {
 

@@ -1,7 +1,7 @@
-package com.natamus.trampleeverything.util;
+package com.serilum.trampleeverything.util;
 
 import com.natamus.collective.functions.BlockFunctions;
-import com.natamus.trampleeverything.config.ConfigHandler;
+import com.serilum.trampleeverything.config.ConfigHandler;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.*;

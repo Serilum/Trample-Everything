@@ -1,10 +1,10 @@
-package com.natamus.trampleeverything;
+package com.serilum.trampleeverything;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectivePlayerEvents;
-import com.natamus.trampleeverything.events.TrampleEvent;
-import com.natamus.trampleeverything.util.Reference;
+import com.serilum.trampleeverything.events.TrampleEvent;
+import com.serilum.trampleeverything.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;

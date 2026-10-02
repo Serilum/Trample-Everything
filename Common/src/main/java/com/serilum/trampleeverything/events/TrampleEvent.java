@@ -1,7 +1,7 @@
-package com.natamus.trampleeverything.events;
+package com.serilum.trampleeverything.events;
 
-import com.natamus.trampleeverything.config.ConfigHandler;
-import com.natamus.trampleeverything.util.Util;
+import com.serilum.trampleeverything.config.ConfigHandler;
+import com.serilum.trampleeverything.util.Util;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;

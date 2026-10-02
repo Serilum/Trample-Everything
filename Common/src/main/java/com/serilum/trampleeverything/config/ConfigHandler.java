@@ -1,7 +1,7 @@
-package com.natamus.trampleeverything.config;
+package com.serilum.trampleeverything.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.trampleeverything.util.Reference;
+import com.serilum.trampleeverything.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

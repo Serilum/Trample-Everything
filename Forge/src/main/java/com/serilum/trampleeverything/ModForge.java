@@ -1,10 +1,10 @@
-package com.natamus.trampleeverything;
+package com.serilum.trampleeverything;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.trampleeverything.forge.config.IntegrateForgeConfig;
-import com.natamus.trampleeverything.forge.events.ForgeTrampleEvent;
-import com.natamus.trampleeverything.util.Reference;
+import com.serilum.trampleeverything.forge.config.IntegrateForgeConfig;
+import com.serilum.trampleeverything.forge.events.ForgeTrampleEvent;
+import com.serilum.trampleeverything.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-   		MinecraftForge.EVENT_BUS.register(ForgeTrampleEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeTrampleEvent.class);
 	}
 
 	private static void setGlobalConstants() {

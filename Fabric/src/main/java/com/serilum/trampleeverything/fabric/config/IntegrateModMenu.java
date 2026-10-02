@@ -1,7 +1,7 @@
-package com.natamus.trampleeverything.fabric.config;
+package com.serilum.trampleeverything.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.trampleeverything.util.Reference;
+import com.serilum.trampleeverything.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 
